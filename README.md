@@ -1,3 +1,6 @@
+# You can visit the live demo here:
+https://sprinkaiquiz-431c611bb692.herokuapp.com
+
 # How to Run
 
 #### 1 - Copy the repository
