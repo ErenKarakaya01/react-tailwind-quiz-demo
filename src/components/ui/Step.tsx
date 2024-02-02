@@ -1,4 +1,3 @@
-import React from "react";
 
 const Step = ({ children }: { children: JSX.Element | JSX.Element[] }) => {
   return (

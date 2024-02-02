@@ -62,7 +62,7 @@ const Quiz = () => {
             callback={handleTimeRunsOut}
           />
 
-          <Stepper activeStep={currentQuestion}>
+          <Stepper>
             {questions.map((question, index) => (
               <Step key={question.id}>
                 <StepChip index={index} currentQuestion={currentQuestion} />

@@ -1,4 +1,4 @@
-import React, { useState, useContext } from "react";
+import { useState, useContext } from "react";
 import AnswersContext from "../context/AnswersContext";
 import { OptionType } from "../../../data/data";
 
